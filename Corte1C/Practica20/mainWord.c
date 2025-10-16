@@ -13,7 +13,7 @@ int main() {
     int i;
     
 
-    for (i = 0; word1[i] != '\0' && word2[i] != '\0'; i++) { //comparar strings
+    for (i = 0; word1[i] != '\0' && word2[i] != '\0'; i++) { //comparar las matrices
     
         if (word1[i] != word2[i]) { 
         
@@ -37,3 +37,4 @@ int main() {
 return 0;
 
 }
+
